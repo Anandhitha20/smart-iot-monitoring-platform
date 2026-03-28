@@ -74,7 +74,7 @@ This platform simulates IoT devices and continuously monitors parameters such as
 
 ```bash
 git clone https://github.com/Anandhitha20/smart-iot-monitoring-platform.git
-cd smart-iot-monitoring-platform
+cd smart-iot-platform
 ```
 
 ---
